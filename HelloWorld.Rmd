@@ -1,0 +1,26 @@
+---
+title: "HelloWorld"
+author: "Arbee Shadkma"
+date: "January 11, 2016"
+output: pdf_document
+---
+
+# Introduction
+
+This is first mark Down Document called HelloWorld
+
+## Basic formatting
+This is a markdown file
+
+
+## Lists
+
+### Ordered list
+
+1. Data Science
+2. Machine Learning
+3. Statistics
+
+## Finally
+
+I plan to learn more about R Programming
